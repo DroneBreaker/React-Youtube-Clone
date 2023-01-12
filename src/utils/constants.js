@@ -28,4 +28,16 @@ export const categories = [
   { name: "Live", icon: <LiveTvIcon /> },
   { name: "Sports", icon: <FitnessCenterIcon /> },
   { name: "Fashion", icon: <CheckroomIcon /> },
+  { name: "Beauty", icon: <FaceRetouchingNaturalIcon /> },
+  { name: "Comedy", icon: <TheaterComedyIcon /> },
+  { name: "Gym", icon: <FitnessCenterIcon /> },
+  { name: "Crypto", icon: <DeveloperModeIcon /> },
 ];
+
+//strings that don't have this
+export const demoThumbnailUrl = "https://i.ibb.co/G2L2Gwp/API-Course.png";
+export const demoChannelUrl = "/channel/UCmXm184-HJytD7wek0Uo97A";
+export const demoChannelTitle = "Droners Inc";
+export const demoVideolUrl = "/video/GDa8kZLNhJ4";
+export const demoVideoTitle =
+  "Build and Deploy 5 JavaScript & React API Projects in 10 hours - Full Course / RapidAPI";
