@@ -38,6 +38,7 @@ export const categories = [
 export const demoThumbnailUrl = "https://i.ibb.co/G2L2Gwp/API-Course.png";
 export const demoChannelUrl = "/channel/UCmXm184-HJytD7wek0Uo97A";
 export const demoChannelTitle = "Droners Inc";
+export const demoProfilePicture = "#";
 export const demoVideolUrl = "/video/GDa8kZLNhJ4";
 export const demoVideoTitle =
   "Build and Deploy 5 JavaScript & React API Projects in 10 hours - Full Course / RapidAPI";
